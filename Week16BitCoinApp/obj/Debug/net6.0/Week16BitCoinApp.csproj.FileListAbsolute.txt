@@ -1,0 +1,5 @@
+/Users/carlyn/Projects/Week16BitCoinApp/Week16BitCoinApp/obj/Debug/net6.0/Week16BitCoinApp.csproj.AssemblyReference.cache
+/Users/carlyn/Projects/Week16BitCoinApp/Week16BitCoinApp/obj/Debug/net6.0/Week16BitCoinApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlyn/Projects/Week16BitCoinApp/Week16BitCoinApp/obj/Debug/net6.0/Week16BitCoinApp.AssemblyInfoInputs.cache
+/Users/carlyn/Projects/Week16BitCoinApp/Week16BitCoinApp/obj/Debug/net6.0/Week16BitCoinApp.AssemblyInfo.cs
+/Users/carlyn/Projects/Week16BitCoinApp/Week16BitCoinApp/obj/Debug/net6.0/Week16BitCoinApp.csproj.CoreCompileInputs.cache
